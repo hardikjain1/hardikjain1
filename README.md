@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Jain</h1>
 <h3 align="center">An Electronics and Telecommunication Engineer and a Cyber security enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikjain1&label=Profile%20views&color=0e75b6&style=flat" alt="hardikjain1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hardikjain1&label=Profile%20views&color=0e75b6&style=flat" alt="hardikjain1" /> </p>
 
 - 🔭 I’m currently **playing CTFs, starting with bug hunting, learning scripting.**
 
