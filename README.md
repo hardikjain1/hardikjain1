@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hardik Jain</h1>
-<h3 align="center">An Electronics and Telecommunication Engineer and a Cyber security enthusiast.</h3>
+<h3 align="center">A Threat Intel Analyst, Threat Hunter, and Threat Researcher</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hardikjain1&label=Profile%20views&color=0e75b6&style=flat" alt="hardikjain1" /> </p>
 
-- 🔭 I’m currently **playing CTFs, starting with bug hunting, learning scripting.**
+- 🔭 I’m currently **playing CTFs, starting with threat hunting, learning scripting.**
 
-- 🌱 I’m currently working as a **Cyber Security Analyst** and I'm focused towards **Threat Intel and Threat Hunting** 
+- 🌱 I’m currently working as a **Cybersecurity Engineer** and I'm focused towards **Threat Intel and Threat Hunting** 
 
 - 📫 How to reach me **hardikjain1219463@gmail.com**
 
