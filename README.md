@@ -1,21 +1,64 @@
-<h1 align="center">Hi 👋, I'm Hardik Jain</h1>
-<h3 align="center">A Threat Intel Analyst, Threat Hunter, and Threat Researcher</h3>
+<!-- Profile README for github.com/hardikjain1/hardikjain1 -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hardikjain1&label=Profile%20views&color=0e75b6&style=flat" alt="hardikjain1" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0b1d3a&height=200&section=header&text=Hardik%20Jain&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Cyber%20Threat%20Management&descSize=20&descAlignY=60" width="100%" alt="Hardik Jain – Cyber Threat Management" />
 
-- 🔭 I’m currently **playing CTFs, starting with threat hunting, learning scripting.**
-
-- 🌱 I’m currently working as a **Cybersecurity Engineer** and I'm focused towards **Threat Intel and Threat Hunting** 
-
-- 📫 How to reach me **hardikjain1219463@gmail.com**
-
-- ⚡ Fun fact **I am a professional memer.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hardikjain121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hardikjain121" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ihardikjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ihardikjain" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Threat+Intelligence+%7C+Threat+Hunting;Dark+Web+%26+Attack+Surface+Monitoring;Turning+noise+into+decisions" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/ihardikjain"><img src="https://img.shields.io/badge/LinkedIn-ihardikjain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/hardikjain121"><img src="https://img.shields.io/badge/X-@hardikjain121-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hardikjain1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+## 👋 About me
+
+I'm a **Staff Cybersecurity Engineer** who builds and runs a **Cyber Threat Management** function end to end. My day job is deciding what actually matters in a flood of threat data, and then making sure the right people act on it.
+
+I care less about collecting more feeds and more about **producing intelligence that someone can act on**: clear judgments, honest confidence levels, and concrete recommendations.
+
+## 🎯 What I work on
+
+| Area | What it means in practice |
+|---|---|
+| 🕵️ **Cyber Threat Intelligence** | Tracking threat actors, campaigns and TTPs; writing intel products that lead with the judgment, not the backstory |
+| 🏹 **Threat Hunting** | Hypothesis-driven hunts mapped to MITRE ATT&CK, and building a hunting programme that matures over time |
+| 🌑 **Dark Web Monitoring** | Watching for leaked credentials, access sales and brand or executive exposure |
+| 🌐 **External Attack Surface Management** | Finding what the internet can see of us before an attacker does |
+| 🩹 **Vulnerability Management** | Cutting through CVSS noise with applicability and exploitability context, including Patch Tuesday analysis |
+
+## 🔭 Currently
+
+- 🏗️ Building a **Threat Hunting Programme** (process, playbooks, metrics)
+- 🛠️ Writing **Python tooling** to automate recurring CTI and attack-surface work
+- ✍️ Writing about **CTI tradecraft**: analytic standards, confidence language, better reporting
+- 🧠 Reading up on **psychology and influence**, because attackers exploit people long before they exploit systems
+
+## 🧰 Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,bash,md&theme=dark" alt="Languages and tools" />
+</p>
+
+**Intel and attack surface:** OSINT · SecurityScorecard · Tenable · MITRE ATT&CK
+
+## 🎓 Credentials
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CTIA-Certified%20Threat%20Intelligence%20Analyst-0e75b6?style=flat-square" alt="CTIA" />
+  <img src="https://img.shields.io/badge/ECIH-EC--Council%20Certified%20Incident%20Handler-0e75b6?style=flat-square" alt="ECIH" />
+  <img src="https://img.shields.io/badge/M.Tech-Cyber%20Security%20-0b1d3a?style=flat-square" alt="M.Tech Cyber Security" />
+</p>
+
+## 😄 Fun fact
+
+Besides the threat intel life, I also spend my time in **meme and social media marketing**. It turns out a good meme and a good threat brief have the same job: land the message in seconds.
+
+## 📫 Let's connect
+
+I enjoy talking threat intel, hunting and CTI writing, so reach out on [LinkedIn](https://linkedin.com/in/ihardikjain) or [X](https://twitter.com/hardikjain121).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:0e75b6&height=100&section=footer" width="100%" alt="" />
