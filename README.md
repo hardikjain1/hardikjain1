@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0b1d3a&height=200&section=header&text=Hardik%20Jain&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Cyber%20Threat%20Management&descSize=20&descAlignY=60" width="100%" alt="Hardik Jain – Cyber Threat Management" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Threat+Intelligence+%7C+Threat+Hunting;Dark+Web+%26+Attack+Surface+Monitoring;Turning+noise+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Threat+Intelligence+%7C+Threat+Hunting;Dark+Web+%26+Attack+Surface+Monitoring;I+hunt+threats+before+they+haunt+you" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ihardikjain"><img src="https://img.shields.io/badge/LinkedIn-ihardikjain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/hardikjain121"><img src="https://img.shields.io/badge/X-@hardikjain121-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://linkedin.com/in/ihardikjain"><img src="https://img.shields.io/badge/LinkedIn-HardikJain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/hardikjain121"><img src="https://img.shields.io/badge/X-hardikjain-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <img src="https://komarev.com/ghpvc/?username=hardikjain1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
